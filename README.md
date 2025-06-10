@@ -2,7 +2,7 @@
 
 ---
 
-## Kelompok 2
+## Biodata
 **M. Akbar Rizky Saputra - 20230040236**
 
 **Kelas:** TI23A
